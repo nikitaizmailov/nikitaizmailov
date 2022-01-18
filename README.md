@@ -7,6 +7,8 @@ My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in
 
 🔭 Current projects: 
 - Stock Price Prediction via Machine Learning (Scikit-Learn, Python, Jupyter Notebook, Streamlit)
+- Solar Output Production Regression Model
+- Sentiment Classifier and Stock Ticker Mentions from Reddit Comments via Spark NLP
 
 🌱 Interests:
 - Machine Learning
