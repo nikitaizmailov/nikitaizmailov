@@ -13,6 +13,8 @@ My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in
 - Sentiment Classifier and Stock Ticker Mentions from Reddit Comments via Spark NLP
 
 🌱 Interests:
+- Web Development and JavaScript
+- React.js and Node.js including Django are my favourite languages/frameworks for Web Dev :)
 - Machine Learning
 - NLP, AI and Deep Learning
 - Building Impactful Projects that thousands or millions of people will use.
