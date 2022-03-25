@@ -5,12 +5,11 @@ My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in
 ⚡ Work experience: <br>
 - Data Analyst at Bloomberg L.P. [London. July 2020 - May 2021]
 
-🔭 Current projects: 
+🔭 Current projects:
+- Weather Forecast Chrome Extension via JS, React.js and OpenWeatherMap API.
 - Sorting Algorithms Visualiser app via React.js
 - Searching Algorithms Visualiser app via React.js
 - Stock Price Prediction via Machine Learning (Scikit-Learn, Python, Jupyter Notebook, Streamlit)
-- Solar Output Production Regression Model
-- Sentiment Classifier and Stock Ticker Mentions from Reddit Comments via Spark NLP
 
 🌱 Interests:
 - Web Development and JavaScript
