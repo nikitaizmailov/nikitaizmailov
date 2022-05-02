@@ -6,7 +6,7 @@ My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in
 - Data Analyst at Bloomberg L.P. [London. July 2020 - May 2021]
 
 🔭 Current projects:
-- REST API server for Netflix films catalogue.
+- Wagerfy API and Web Application.
 - Weather Forecast Chrome Extension via JS, React.js and OpenWeatherMap API.
 - Sorting Algorithms Visualiser app via React.js
 - Searching Algorithms Visualiser app via React.js
