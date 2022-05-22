@@ -6,15 +6,13 @@ My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in
 - Data Analyst at Bloomberg L.P. [London. July 2020 - May 2021]
 
 🔭 Current projects:
-- Wagerfy API and Web Application.
+- LSTM RNN Bitcoin Regression model to predict the next day price. 
 - Weather Forecast Chrome Extension via JS, React.js and OpenWeatherMap API.
 - Sorting Algorithms Visualiser app via React.js
 - Searching Algorithms Visualiser app via React.js
 - Stock Price Prediction via Machine Learning (Scikit-Learn, Python, Jupyter Notebook, Streamlit)
 
 🌱 Interests:
-- Web Development and JavaScript
-- React.js and Node.js including Django are my favourite languages/frameworks for Web Dev :)
 - Machine Learning
 - NLP, AI and Deep Learning
 - Building Impactful Projects that thousands or millions of people will use.
