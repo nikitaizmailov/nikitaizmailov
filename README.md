@@ -15,7 +15,7 @@ My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in
 🌱 Interests:
 - Machine Learning
 - NLP, AI and Deep Learning
-- Building Impactful Projects that thousands or millions of people will use.
+- Stocks, Fundamental and Quantative Investment Strategies.
 
 💬 Reach me by email or LinkedIn! nikita.izmailovv@gmail.com | www.linkedin.com/in/nikitaizmailov18/
 
