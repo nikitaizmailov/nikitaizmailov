@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nikita and I'm a Data Scientist and Software Engineer, and studied in UCL in London. Here's some info about me!
+My name is Nikita and I'm a Data Scientist and Fundamental Analyst, and studied in UCL in London. Here's some info about me!
 
 ⚡ Work experience: <br>
 - Data Analyst at Bloomberg L.P. [London. July 2020 - May 2021]
